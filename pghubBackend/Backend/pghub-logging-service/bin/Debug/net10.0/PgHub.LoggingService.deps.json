@@ -1,0 +1,153 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PgHub.LoggingService/1.0.0": {
+        "dependencies": {
+          "Steeltoe.Discovery.Eureka": "4.2.0"
+        },
+        "runtime": {
+          "PgHub.LoggingService.dll": {}
+        }
+      },
+      "Steeltoe.Common/4.2.0": {
+        "runtime": {
+          "lib/net10.0/Steeltoe.Common.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Steeltoe.Common.Certificates/4.2.0": {
+        "dependencies": {
+          "Steeltoe.Common": "4.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/Steeltoe.Common.Certificates.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Steeltoe.Common.Hosting/4.2.0": {
+        "dependencies": {
+          "Steeltoe.Common": "4.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/Steeltoe.Common.Hosting.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Steeltoe.Common.Http/4.2.0": {
+        "dependencies": {
+          "Steeltoe.Common": "4.2.0",
+          "Steeltoe.Common.Certificates": "4.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/Steeltoe.Common.Http.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Steeltoe.Configuration.Abstractions/4.2.0": {
+        "dependencies": {
+          "Steeltoe.Common": "4.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/Steeltoe.Configuration.Abstractions.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Steeltoe.Configuration.CloudFoundry/4.2.0": {
+        "dependencies": {
+          "Steeltoe.Common.Hosting": "4.2.0",
+          "Steeltoe.Configuration.Abstractions": "4.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/Steeltoe.Configuration.CloudFoundry.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Steeltoe.Discovery.Eureka/4.2.0": {
+        "dependencies": {
+          "Steeltoe.Common.Certificates": "4.2.0",
+          "Steeltoe.Common.Http": "4.2.0",
+          "Steeltoe.Configuration.CloudFoundry": "4.2.0"
+        },
+        "runtime": {
+          "lib/net10.0/Steeltoe.Discovery.Eureka.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PgHub.LoggingService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Steeltoe.Common/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SNWlJu0DGAEqRtWhU28FKEeLEfcfUprBMRCDtUJyFt0h+0yrCynweD0wsg+uhHuEMPniDJODjL0beKuaJJFpjg==",
+      "path": "steeltoe.common/4.2.0",
+      "hashPath": "steeltoe.common.4.2.0.nupkg.sha512"
+    },
+    "Steeltoe.Common.Certificates/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KuQeHNBeJ42+lzXXJc6c1+xgJbJL8EbKyk0N8Tspxgc0rwFWPVnAqwPFKo5A26bENYoOcmUaxmLkrcb4rh317Q==",
+      "path": "steeltoe.common.certificates/4.2.0",
+      "hashPath": "steeltoe.common.certificates.4.2.0.nupkg.sha512"
+    },
+    "Steeltoe.Common.Hosting/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-53tSq0yhtv75UpL7T2ELG0ONyYnEJgMyKzOjL/ny3aFapXbxwVTDnH47mqqG2HQhiP+zlyKINJqlDnRTgxRt/A==",
+      "path": "steeltoe.common.hosting/4.2.0",
+      "hashPath": "steeltoe.common.hosting.4.2.0.nupkg.sha512"
+    },
+    "Steeltoe.Common.Http/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cax9qYDLTJaLyJM1KmfgPIPvFe6aTeqKNhvRNggsakx3vmIsZ02CuWDa4S2IJ5ywVwImRgx6DAG+zXjGH630Ew==",
+      "path": "steeltoe.common.http/4.2.0",
+      "hashPath": "steeltoe.common.http.4.2.0.nupkg.sha512"
+    },
+    "Steeltoe.Configuration.Abstractions/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2zaUU0dfLhjB8dMoJXY4L9at6sdkEmo6B4abjQCpp6hxHUYpNitQkS3eTpnsQZFwk6JJbEO2VK+mwu2e9y83A==",
+      "path": "steeltoe.configuration.abstractions/4.2.0",
+      "hashPath": "steeltoe.configuration.abstractions.4.2.0.nupkg.sha512"
+    },
+    "Steeltoe.Configuration.CloudFoundry/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xNfSPX1U0x//tZpqOhlFifVkmHOR9tO1SL+3LzEj7Emzs6eFQdw1yqoI2fnY1x6HM7dpA8iidbEN+TmviPzKEQ==",
+      "path": "steeltoe.configuration.cloudfoundry/4.2.0",
+      "hashPath": "steeltoe.configuration.cloudfoundry.4.2.0.nupkg.sha512"
+    },
+    "Steeltoe.Discovery.Eureka/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UMiMkJKqhKJYsep8HiZ1pTzq1DDjSo1IIPJJhD99dIrbffy3P40aKqLhaA0c4yJq3Cy1XrHwbPsaGnUlOri2kA==",
+      "path": "steeltoe.discovery.eureka/4.2.0",
+      "hashPath": "steeltoe.discovery.eureka.4.2.0.nupkg.sha512"
+    }
+  }
+}

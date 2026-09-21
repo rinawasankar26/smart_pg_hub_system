@@ -1,0 +1,111 @@
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\appsettings.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.staticwebassets.endpoints.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.exe
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.deps.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.runtimeconfig.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.pdb
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Certificates.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Hosting.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Http.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Configuration.Abstractions.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Configuration.CloudFoundry.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.csproj.AssemblyReference.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.AssemblyInfoInputs.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.AssemblyInfo.cs
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\scopedcss\bundle\PgHub.LoggingService.styles.css
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.Lo.D9FDDC52.Up2Date
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\refint\PgHub.LoggingService.dll
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.pdb
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.genruntimeconfig.cache
+C:\Users\ABHIJEET\Downloads\pghub-logging-service-net10\pghub-logging-service\obj\Debug\net10.0\ref\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\appsettings.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.staticwebassets.endpoints.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.exe
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.deps.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.runtimeconfig.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.pdb
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Certificates.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Hosting.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Http.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Configuration.Abstractions.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Configuration.CloudFoundry.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.csproj.AssemblyReference.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.AssemblyInfo.cs
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\scopedcss\bundle\PgHub.LoggingService.styles.css
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.Lo.D9FDDC52.Up2Date
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\refint\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.pdb
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.genruntimeconfig.cache
+C:\Users\Rina\Desktop\PG PROJECT)\PGHub-Microservices\Services\pghub-logging-service\obj\Debug\net10.0\ref\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\appsettings.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.staticwebassets.endpoints.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.exe
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.deps.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.runtimeconfig.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\PgHub.LoggingService.pdb
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Certificates.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Hosting.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Common.Http.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Configuration.Abstractions.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Configuration.CloudFoundry.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\bin\Debug\net10.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.csproj.AssemblyReference.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.AssemblyInfo.cs
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\scopedcss\bundle\PgHub.LoggingService.styles.css
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.Lo.D9FDDC52.Up2Date
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\refint\PgHub.LoggingService.dll
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.pdb
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\PgHub.LoggingService.genruntimeconfig.cache
+C:\Users\Rina\Desktop\PG PROJECT)\pghubBackend\Backend\pghub-logging-service\obj\Debug\net10.0\ref\PgHub.LoggingService.dll
