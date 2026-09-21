@@ -1,3 +1,3 @@
 export const config = {
-  BASE_URL: 'http://localhost:8082'
+  BASE_URL: 'https://smart-pg-gateway.onrender.com'
 }
